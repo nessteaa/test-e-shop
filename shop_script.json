@@ -1,0 +1,42 @@
+[{"name": "iPhone XR", "description": "Phone", 
+    "parameters":
+    {
+	"manufacturer": "Apple",
+	"country": "China",
+	"color": "black",
+        "screen": 6.1,
+	"storage": 256,
+	"mpix": 12
+    }
+},
+{"name": "iPhone SE", "description": "Phone", 
+    "parameters":
+    {
+	"manufacturer": "Apple",
+	"country": "China",
+	"color": "white",
+        "screen": 4.7,
+	"storage": 64,
+	"mpix": 10
+    }
+},
+{"name": "AirPods", "description": "Headphones", 
+    "parameters":
+    {
+	"manufacturer": "Apple",
+	"country": "China",
+	"color": "white",
+	"battery_life": "24 hr.",
+    }
+},
+{"name": "iPhone 12", "description": "phone", 
+    "parameters":
+    {
+	"manufacturer": "Apple",
+	"country": "China",
+	"color": "white",
+        "screen": 6.1,
+	"storage": 128,
+	"mpix": 12
+    }
+}]
